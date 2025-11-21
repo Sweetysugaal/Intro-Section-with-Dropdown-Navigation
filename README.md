@@ -16,7 +16,7 @@ See hover states for all interactive elements
 Navigate smoothly and intuitively
 
 🖼️ Screenshot
-![Project Screenshot](screenshot.jpeg)
+[Project Screenshot](screenshot.jpeg)
 
 Solution URL: Add your Frontend Mentor solution link here
 
