@@ -19,9 +19,9 @@ Navigate smoothly and intuitively
 
 ![Project Screenshot](./Screenshot.jpg)
 
-Solution URL: Add your Frontend Mentor solution link here
+Solution URL:(https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5?tab=submit)
 
-Live Site URL: Add your GitHub Pages link here
+Live Site URL:(https://intro-section-with-dropdown-navigat-weld.vercel.app/)
 
 🛠️ My Process
 💻 Built With
