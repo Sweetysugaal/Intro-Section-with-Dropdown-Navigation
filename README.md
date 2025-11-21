@@ -17,7 +17,7 @@ Navigate smoothly and intuitively
 
 🖼️ Project Screenshot:
 
-Screenshot.jpeg
+![Project Screenshot](./Screenshot.jpg)
 
 Solution URL: Add your Frontend Mentor solution link here
 

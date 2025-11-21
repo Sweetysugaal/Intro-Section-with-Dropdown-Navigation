@@ -2,6 +2,7 @@
 *.sketch
 *.fig
 *.xd
+# Remove this files
 README-template.md
 preview.jpg
 style-guide.md
